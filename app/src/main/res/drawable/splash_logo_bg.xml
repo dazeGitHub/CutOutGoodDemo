@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:opacity="opaque">
+
+    <item android:drawable="@color/bg_splash" />
+
+    <!--顶部 girl-->
+    <item
+        android:top="227dp">
+        <bitmap
+            android:gravity="top"
+            android:src="@drawable/mc_forum_face234" />
+    </item>
+
+</layer-list>
